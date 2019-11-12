@@ -1,1 +1,11 @@
-This is a dataset of premier league matches from 2012/13 season to 2017/18 seasons
+- This is a dataset of teams in the premier league for six (6) seasons
+- One main goal is to combined the data to answer some question about specific teams and certain general stats
+- Perhaps do some modelling at the end to predict future premier league matches
+- Some of the questions we would like to answer include:
+--
+- How is Chelsea fc's attacking at home and away from home as per goals scored, touches made, shots and other stats
+- How is there defending home and away from home in there title winning season.
+- For most chelsea wins, draws, and loses, which referee officiated the match.
+- How many clean sheets they held?
+- How many times have they come from behind to win a game
+- And how these finding conjour with other title winning campagnes for other teams
